@@ -1,0 +1,9 @@
+/* Category.css */
+.parent-category .subcategories {
+    display: none;
+  }
+  
+  .parent-category:hover .subcategories {
+    display: block;
+  }
+  
